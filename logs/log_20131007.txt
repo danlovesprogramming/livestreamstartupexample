@@ -1,0 +1,11 @@
+2013 10 07 12:53:03|Starting script.
+2013 10 07 01:00:56|Connected to database.
+2013 10 07 01:00:56|Starting script.
+2013 10 07 01:01:38|Could not connect to database.
+2013 10 07 01:01:38|Starting script.
+2013 10 07 01:03:13|/var/www/livestreamstartupexample/classes/class.Database.php|Connected to database.
+2013 10 07 01:03:13|Starting script.
+2013 10 07 01:05:29|/var/www/livestreamstartupexample/classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 07 01:05:29|Starting script.
+2013 10 07 01:08:02|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 07 01:08:02|Starting script.

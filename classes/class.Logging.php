@@ -5,15 +5,15 @@
 			$this->logfile = '../logs/log_'.date('Ymd').'.txt';
 		}
 
-		function log($message) {
-			$fp = fopen($this->logfile, 'a+');
-			$logMessage = date("Y m d h:i:s", time())."|".$message."\n";
+        function log($message) {
+            $fp = fopen($this->logfile, 'a+');
+            $logMessage = date("Y m d h:i:s", time())."|".$message."\n";
 
-			// Strip out root path
-			$logMessage = str_replace('/var/www/livestreamstartupexample/', '', $logMessage);
-
-			fwrite($fp,$logMessage);
-			fclose($fp);
-		}
+            // Strip out root path
+            $logMessage = str_replace('/var/www/livestreamstartupexample/', '', $logMessage);
+            
+            fwrite($fp,$logMessage);
+            fclose($fp);
+        }
 	}
 
