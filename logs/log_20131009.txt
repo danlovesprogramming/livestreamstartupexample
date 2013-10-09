@@ -286,3 +286,9 @@
 2013 10 09 06:31:19|classes/class.Database.php||TDatabase||8||Connected to database.
 2013 10 09 06:31:19|classes/class.Database.php||TDatabase||8||Connected to database.
 2013 10 09 06:31:19|Starting script.
+2013 10 09 06:36:08|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 09 06:36:08|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 09 06:36:08|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 09 06:36:15|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 09 06:36:15|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 09 06:36:15|Starting script.
