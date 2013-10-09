@@ -90,3 +90,4 @@
 2013 10 08 05:27:32|Starting script.
 2013 10 08 05:27:38|classes/class.Database.php||TDatabase||8||Connected to database.
 2013 10 08 05:27:38|Starting script.
+2013 10 08 06:22:43|classes/class.Database.php||TDatabase||8||Connected to database.

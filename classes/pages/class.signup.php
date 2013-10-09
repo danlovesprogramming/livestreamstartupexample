@@ -1,12 +1,14 @@
 <?php
-class TPageClass {
-    function __construct($className) {
-        if (file_exists("../templates/pages/".$className.".html")) {
+require_once("../classes/class.GeneralPageClass.php");
 
-            $content = file_get_contents("../templates/pages/".$className.".html");
-            echo $content;
+class TPageClass extends TGeneralPageClass {
+    function init() {
+        if (isset($_POST['submit'])) {
+            $sqlQuery = "insert into users (username, password) values ('".$this->safePost['username']."', '".$this->safePost['password']."')";
+
+            echo $sqlQuery;
         } else {
-            echo "Page content not found <br />";
+            $this->showContent();
         }
     }
 }
