@@ -1,0 +1,2 @@
+2013 10 16 05:14:42|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 16 05:51:43|classes/class.Database.php||TDatabase||8||Connected to database.

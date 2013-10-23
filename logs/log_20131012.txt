@@ -96,3 +96,23 @@
 2013 10 12 02:37:47|CSS preg_match executes!
 2013 10 12 02:37:47|CSS Create Content executes!
 2013 10 12 02:37:47|Starting script.
+2013 10 12 02:40:30|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 12 02:40:30|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 12 02:40:30|Starting script.
+2013 10 12 02:40:31|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 12 02:40:31|CSS preg_match executes!
+2013 10 12 02:40:31|CSS Create Content executes!
+2013 10 12 02:40:31|Starting script.
+2013 10 12 02:41:14|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 12 02:41:14|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 12 02:41:14|Starting script.
+2013 10 12 02:41:15|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 12 02:41:15|CSS preg_match executes!
+2013 10 12 02:41:15|CSS Create Content executes!
+2013 10 12 02:41:15|Starting script.
+2013 10 12 11:33:14|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 12 11:33:14|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 12 11:33:14|Starting script.
+2013 10 12 04:44:31|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 12 04:44:31|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 12 04:44:31|Starting script.

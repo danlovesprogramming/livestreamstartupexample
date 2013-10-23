@@ -1,0 +1,307 @@
+2013 10 23 01:52:06|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 01:52:06|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 01:52:06|Starting script.
+2013 10 23 01:52:07|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 01:52:07|CSS preg_match executes!
+2013 10 23 01:52:07|CSS Create Content executes!
+2013 10 23 01:52:07|Starting script.
+2013 10 23 01:52:07|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 01:52:07|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 01:52:07|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:08:45|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:08:45|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:08:45|Starting script.
+2013 10 23 02:08:46|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:08:46|CSS preg_match executes!
+2013 10 23 02:08:46|CSS Create Content executes!
+2013 10 23 02:08:46|Starting script.
+2013 10 23 02:08:53|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:08:53|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:08:53|Starting script.
+2013 10 23 02:08:53|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:08:53|CSS preg_match executes!
+2013 10 23 02:08:53|CSS Create Content executes!
+2013 10 23 02:08:53|Starting script.
+2013 10 23 02:12:22|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:12:22|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:12:22|Starting script.
+2013 10 23 02:12:22|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:12:22|CSS preg_match executes!
+2013 10 23 02:12:22|CSS Create Content executes!
+2013 10 23 02:12:22|Starting script.
+2013 10 23 02:12:24|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:12:24|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:12:24|Starting script.
+2013 10 23 02:12:24|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:12:24|CSS preg_match executes!
+2013 10 23 02:12:24|CSS Create Content executes!
+2013 10 23 02:12:24|Starting script.
+2013 10 23 02:22:28|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:22:28|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:22:28|Starting script.
+2013 10 23 02:22:28|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:22:28|CSS preg_match executes!
+2013 10 23 02:22:28|CSS Create Content executes!
+2013 10 23 02:22:28|Starting script.
+2013 10 23 02:23:44|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:23:44|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:23:44|Starting script.
+2013 10 23 02:23:44|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:23:44|CSS preg_match executes!
+2013 10 23 02:23:44|CSS Create Content executes!
+2013 10 23 02:23:44|Starting script.
+2013 10 23 02:25:57|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:25:57|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:25:57|Starting script.
+2013 10 23 02:25:57|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:25:57|CSS preg_match executes!
+2013 10 23 02:25:57|CSS Create Content executes!
+2013 10 23 02:25:57|Starting script.
+2013 10 23 02:32:08|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:32:08|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:32:08|Starting script.
+2013 10 23 02:32:09|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:32:09|CSS preg_match executes!
+2013 10 23 02:32:09|CSS Create Content executes!
+2013 10 23 02:32:09|Starting script.
+2013 10 23 02:32:24|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:32:24|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:32:24|Starting script.
+2013 10 23 02:35:42|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:35:42|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:35:42|Starting script.
+2013 10 23 02:35:42|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:35:42|CSS preg_match executes!
+2013 10 23 02:35:42|CSS Create Content executes!
+2013 10 23 02:35:42|Starting script.
+2013 10 23 02:50:40|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:50:40|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:50:40|Starting script.
+2013 10 23 02:50:40|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:50:40|CSS preg_match executes!
+2013 10 23 02:50:40|CSS Create Content executes!
+2013 10 23 02:50:40|Starting script.
+2013 10 23 02:51:58|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:51:58|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:51:58|Starting script.
+2013 10 23 02:51:58|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:51:58|CSS preg_match executes!
+2013 10 23 02:51:58|CSS Create Content executes!
+2013 10 23 02:51:58|Starting script.
+2013 10 23 02:55:02|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:55:02|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:55:02|Starting script.
+2013 10 23 02:55:03|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:55:03|CSS preg_match executes!
+2013 10 23 02:55:03|CSS Create Content executes!
+2013 10 23 02:55:03|Starting script.
+2013 10 23 02:55:41|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:55:41|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:55:41|Starting script.
+2013 10 23 02:55:41|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:55:41|CSS preg_match executes!
+2013 10 23 02:55:41|CSS Create Content executes!
+2013 10 23 02:55:41|Starting script.
+2013 10 23 02:58:06|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:58:06|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:58:06|Starting script.
+2013 10 23 02:58:06|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 02:58:06|CSS preg_match executes!
+2013 10 23 02:58:06|CSS Create Content executes!
+2013 10 23 02:58:06|Starting script.
+2013 10 23 03:00:56|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:00:56|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:00:56|Starting script.
+2013 10 23 03:00:56|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:00:56|CSS preg_match executes!
+2013 10 23 03:00:56|CSS Create Content executes!
+2013 10 23 03:00:56|Starting script.
+2013 10 23 03:02:26|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:02:26|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:02:26|Starting script.
+2013 10 23 03:02:26|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:02:26|CSS preg_match executes!
+2013 10 23 03:02:26|CSS Create Content executes!
+2013 10 23 03:02:26|Starting script.
+2013 10 23 03:03:24|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:03:24|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:03:24|Starting script.
+2013 10 23 03:03:25|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:03:25|CSS preg_match executes!
+2013 10 23 03:03:25|CSS Create Content executes!
+2013 10 23 03:03:25|Starting script.
+2013 10 23 03:06:09|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:06:09|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:06:09|Starting script.
+2013 10 23 03:06:09|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:06:09|CSS preg_match executes!
+2013 10 23 03:06:09|CSS Create Content executes!
+2013 10 23 03:06:09|Starting script.
+2013 10 23 03:07:20|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:07:20|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:07:20|Starting script.
+2013 10 23 03:07:20|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:07:20|CSS preg_match executes!
+2013 10 23 03:07:20|CSS Create Content executes!
+2013 10 23 03:07:20|Starting script.
+2013 10 23 03:07:43|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:07:43|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:07:43|Starting script.
+2013 10 23 03:09:03|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:09:03|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:09:03|Starting script.
+2013 10 23 03:09:03|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:09:03|CSS preg_match executes!
+2013 10 23 03:09:03|CSS Create Content executes!
+2013 10 23 03:09:03|Starting script.
+2013 10 23 03:12:07|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:12:07|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:12:07|Starting script.
+2013 10 23 03:12:07|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:12:07|CSS preg_match executes!
+2013 10 23 03:12:07|CSS Create Content executes!
+2013 10 23 03:12:07|Starting script.
+2013 10 23 03:19:21|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:19:21|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:19:21|Starting script.
+2013 10 23 03:19:21|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:19:21|CSS preg_match executes!
+2013 10 23 03:19:21|CSS Create Content executes!
+2013 10 23 03:19:21|Starting script.
+2013 10 23 03:27:53|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:27:53|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:27:53|Starting script.
+2013 10 23 03:27:53|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:27:53|CSS preg_match executes!
+2013 10 23 03:27:53|CSS Create Content executes!
+2013 10 23 03:27:53|Starting script.
+2013 10 23 03:31:38|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:31:38|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:31:38|Starting script.
+2013 10 23 03:31:39|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:31:39|CSS preg_match executes!
+2013 10 23 03:31:39|CSS Create Content executes!
+2013 10 23 03:31:39|Starting script.
+2013 10 23 03:33:29|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:33:29|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:33:29|Starting script.
+2013 10 23 03:33:29|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:33:29|CSS preg_match executes!
+2013 10 23 03:33:29|CSS Create Content executes!
+2013 10 23 03:33:29|Starting script.
+2013 10 23 03:35:01|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:35:01|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:35:01|Starting script.
+2013 10 23 03:35:02|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:35:02|CSS preg_match executes!
+2013 10 23 03:35:02|CSS Create Content executes!
+2013 10 23 03:35:02|Starting script.
+2013 10 23 03:38:07|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:38:07|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:38:07|Starting script.
+2013 10 23 03:38:07|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:38:07|CSS preg_match executes!
+2013 10 23 03:38:07|CSS Create Content executes!
+2013 10 23 03:38:07|Starting script.
+2013 10 23 03:39:39|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:39:39|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:39:39|Starting script.
+2013 10 23 03:39:39|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:39:39|CSS preg_match executes!
+2013 10 23 03:39:39|CSS Create Content executes!
+2013 10 23 03:39:39|Starting script.
+2013 10 23 03:43:36|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:43:36|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:43:36|Starting script.
+2013 10 23 03:43:37|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:43:37|CSS preg_match executes!
+2013 10 23 03:43:37|CSS Create Content executes!
+2013 10 23 03:43:37|Starting script.
+2013 10 23 03:47:17|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:47:17|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:47:17|Starting script.
+2013 10 23 03:47:17|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:47:17|CSS preg_match executes!
+2013 10 23 03:47:17|CSS Create Content executes!
+2013 10 23 03:47:17|Starting script.
+2013 10 23 03:48:17|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:48:17|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:48:17|Starting script.
+2013 10 23 03:48:17|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:48:17|CSS preg_match executes!
+2013 10 23 03:48:17|CSS Create Content executes!
+2013 10 23 03:48:17|Starting script.
+2013 10 23 03:49:27|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:49:27|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:49:27|Starting script.
+2013 10 23 03:49:27|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:49:27|CSS preg_match executes!
+2013 10 23 03:49:27|CSS Create Content executes!
+2013 10 23 03:49:27|Starting script.
+2013 10 23 03:53:56|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:53:56|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:53:56|Starting script.
+2013 10 23 03:53:57|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:53:57|CSS preg_match executes!
+2013 10 23 03:53:57|CSS Create Content executes!
+2013 10 23 03:53:57|Starting script.
+2013 10 23 03:55:55|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:55:55|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:55:55|Starting script.
+2013 10 23 03:55:55|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:55:55|CSS preg_match executes!
+2013 10 23 03:55:55|CSS Create Content executes!
+2013 10 23 03:55:55|Starting script.
+2013 10 23 03:58:11|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:58:11|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:58:11|Starting script.
+2013 10 23 03:58:11|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:58:11|CSS preg_match executes!
+2013 10 23 03:58:11|CSS Create Content executes!
+2013 10 23 03:58:11|Starting script.
+2013 10 23 03:58:49|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:58:49|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:58:49|Starting script.
+2013 10 23 03:58:50|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 03:58:50|CSS preg_match executes!
+2013 10 23 03:58:50|CSS Create Content executes!
+2013 10 23 03:58:50|Starting script.
+2013 10 23 04:00:04|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 04:00:04|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 04:00:04|Starting script.
+2013 10 23 04:00:04|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 04:00:04|CSS preg_match executes!
+2013 10 23 04:00:04|CSS Create Content executes!
+2013 10 23 04:00:04|Starting script.
+2013 10 23 04:01:14|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 04:01:14|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 04:01:14|Starting script.
+2013 10 23 04:01:14|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 04:01:14|CSS preg_match executes!
+2013 10 23 04:01:14|CSS Create Content executes!
+2013 10 23 04:01:14|Starting script.
+2013 10 23 04:08:19|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 04:09:03|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 04:09:03|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 04:09:03|Starting script.
+2013 10 23 04:09:04|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 04:09:04|CSS preg_match executes!
+2013 10 23 04:09:04|CSS Create Content executes!
+2013 10 23 04:09:04|Starting script.
+2013 10 23 04:09:50|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 04:09:50|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 04:09:50|Starting script.
+2013 10 23 04:09:50|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 04:09:50|CSS preg_match executes!
+2013 10 23 04:09:50|CSS Create Content executes!
+2013 10 23 04:09:50|Starting script.
+2013 10 23 04:11:20|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 04:11:20|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 04:11:20|Starting script.
+2013 10 23 04:11:21|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 04:11:21|CSS preg_match executes!
+2013 10 23 04:11:21|CSS Create Content executes!
+2013 10 23 04:11:21|Starting script.
+2013 10 23 04:12:09|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 04:12:09|classes/class.Database.php||TDatabase||8||Connected to database.
+2013 10 23 04:12:09|Starting script.
